@@ -1,0 +1,4 @@
+indivname: ../data/subSamoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.ind
+snpname: ../data/subSamoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.snp
+genotypename: ../data/subSamoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.geno
+popfilename: sublist1.txt

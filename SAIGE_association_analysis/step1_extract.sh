@@ -1,0 +1,3 @@
+plink --bfile /gpfs/gibbs/pi/tucci/cl2549/dataset/Samoa/bisnpPASS/Samoan.normalized.bisnp.PASS.D1_het --extract range Neanderthal_introgression_variants_list.tsv --make-bed --keep-allele-order --out Nean_spec_intro.Samoan.normalized.bisnp.PASS.D1_het 
+plink --bfile /gpfs/gibbs/pi/tucci/cl2549/dataset/Samoa/bisnpPASS/Samoan.normalized.bisnp.PASS.D1_het --extract range Denisovan_introgression_variants_list.tsv --make-bed --keep-allele-order --out Den_spec_intro.Samoan.normalized.bisnp.PASS.D1_het 
+plink --bfile /gpfs/gibbs/pi/tucci/cl2549/dataset/Samoa/bisnpPASS/Samoan.normalized.bisnp.PASS.D1_het --extract range Ambiguous_introgression_variants_list.tsv --make-bed --keep-allele-order --out Ambi_spec_intro.Samoan.normalized.bisnp.PASS.D1_het 

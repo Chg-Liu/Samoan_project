@@ -1,0 +1,7 @@
+genotypename: subcombined.Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.replaced.ped
+snpname:      subcombined.Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.replaced.map
+indivname:    subcombined.Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.replaced.ped
+outputformat:    EIGENSTRAT
+genooutfilename:   subcombined.Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.geno
+snpoutfilename:    subcombined.Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.snp
+indoutfilename:    subcombined.Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.ind

@@ -1,0 +1,6 @@
+plink --bfile Samoan.normalized.bisnp.PASS.het --remove ../../../02_Samoa/preliminary_analysis/KING/kinship/Dup_1st.for_plink.txt --make-bed --keep-allele-order --out Samoan.normalized.bisnp.PASS.D1_het
+plink --bfile Samoan.normalized.bisnp.PASS.het --remove ../../../02_Samoa/preliminary_analysis/KING/kinship/Dup_1st_2nd.for_plink.txt --make-bed --keep-allele-order --out Samoan.normalized.bisnp.PASS.D12_het
+plink --bfile Samoan.normalized.bisnp.PASS.het --remove ../../../02_Samoa/preliminary_analysis/KING/kinship/Dup_1st_2nd_3rd.for_plink.txt --make-bed --keep-allele-order --out Samoan.normalized.bisnp.PASS.D123_het
+plink --bfile Samoan_1000G2504frz9.normalized.bisnp.PASS.het --remove ../../../02_Samoa/preliminary_analysis/KING/kinship/Dup_1st.for_plink.txt --make-bed --out Samoan_1000G2504frz9.normalized.bisnp.PASS.D1_het --keep-allele-order
+plink --bfile Samoan_1000G2504frz9.normalized.bisnp.PASS.het --remove ../../../02_Samoa/preliminary_analysis/KING/kinship/Dup_1st_2nd.for_plink.txt --make-bed --out Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het --keep-allele-order
+plink --bfile Samoan_1000G2504frz9.normalized.bisnp.PASS.het --remove ../../../02_Samoa/preliminary_analysis/KING/kinship/Dup_1st_2nd_3rd.for_plink.txt --make-bed --out Samoan_1000G2504frz9.normalized.bisnp.PASS.D123_het --keep-allele-order

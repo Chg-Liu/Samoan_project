@@ -1,0 +1,2 @@
+#!/bin/sh
+king -b /gpfs/gibbs/pi/tucci/cl2549/dataset/Samoa/bisnpPASS/Samoan.normalized.bisnp.PASS.D1_het.missing0.02_maf0.01_LDpruned.bed --fam /gpfs/gibbs/pi/tucci/cl2549/dataset/Samoa/bisnpPASS/Samoan.normalized.bisnp.PASS.D1_het.missing0.02_maf0.01_LDpruned.fam --bim /gpfs/gibbs/pi/tucci/cl2549/dataset/Samoa/bisnpPASS/Samoan.normalized.bisnp.PASS.D1_het.missing0.02_maf0.01_LDpruned.bim --kinship --unrelated --cpus 32 --prefix Samoan.normalized.bisnp.PASS.D1_het.missing0.02_maf0.01_LDpruned

@@ -1,0 +1,10 @@
+qpDstat -p parfile1.txt > Dstat1.txt
+qpDstat -p parfile2.txt > Dstat2.txt
+qpDstat -p parfile3.txt > Dstat3.txt
+qpDstat -p parfile4.txt > Dstat4.txt
+qpDstat -p parfile5.txt > Dstat5.txt
+qpDstat -p subparfile1.txt > subDstat1.txt
+qpDstat -p subparfile2.txt > subDstat2.txt
+qpDstat -p subparfile3.txt > subDstat3.txt
+qpDstat -p subparfile4.txt > subDstat4.txt
+qpDstat -p subparfile5.txt > subDstat5.txt

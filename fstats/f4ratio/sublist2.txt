@@ -1,0 +1,12 @@
+Chimpanzee AltaiNeandertal : YRI NWU :: Chimpanzee AltaiNeandertal : YRI Vindija33.19
+YRI Vindija33.19 : CHB NWU :: YRI Vindija33.19 : CHB Denisova
+YRI Vindija33.19 : CDX NWU :: YRI Vindija33.19 : CDX Denisova
+YRI Vindija33.19 : CEU NWU :: YRI Vindija33.19 : CEU Denisova
+Chimpanzee AltaiNeandertal : YRI AUA :: Chimpanzee AltaiNeandertal : YRI Vindija33.19
+YRI Vindija33.19 : CHB AUA :: YRI Vindija33.19 : CHB Denisova
+YRI Vindija33.19 : CDX AUA :: YRI Vindija33.19 : CDX Denisova
+YRI Vindija33.19 : CEU AUA :: YRI Vindija33.19 : CEU Denisova
+Chimpanzee AltaiNeandertal : YRI SAV :: Chimpanzee AltaiNeandertal : YRI Vindija33.19
+YRI Vindija33.19 : CHB SAV :: YRI Vindija33.19 : CHB Denisova
+YRI Vindija33.19 : CDX SAV :: YRI Vindija33.19 : CDX Denisova
+YRI Vindija33.19 : CEU SAV :: YRI Vindija33.19 : CEU Denisova

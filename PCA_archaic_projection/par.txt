@@ -1,0 +1,7 @@
+genotypename: ../fstats/data/combined.Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.geno
+snpname:      ../fstats/data/combined.Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.snp
+indivname:    ../fstats/data/combined.Samoan_1000G2504frz9.normalized.bisnp.PASS.D12_het.missing0.02_maf0.01_LDpruned.ind
+evecoutname:  test.evec
+evaloutname:  test.eval
+poplistname:  poplist.txt
+numthreads: 8

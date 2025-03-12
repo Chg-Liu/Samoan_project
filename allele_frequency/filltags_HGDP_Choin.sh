@@ -1,0 +1,3 @@
+bcftools +fill-tags lifted_over.HGDP_SGDP_Choin.bisnpnomissing.chr3.vcf.gz -o AFannotated.lifted_over.HGDP_SGDP_Choin.bisnpnomissing.chr3.vcf.gz -- -t AF,MAF -S pop_map.txt; tabix -f AFannotated.lifted_over.HGDP_SGDP_Choin.bisnpnomissing.chr3.vcf.gz
+bcftools +fill-tags lifted_over.HGDP_SGDP_Choin.bisnpnomissing.chr8.vcf.gz -o AFannotated.lifted_over.HGDP_SGDP_Choin.bisnpnomissing.chr8.vcf.gz -- -t AF,MAF -S pop_map.txt; tabix -f AFannotated.lifted_over.HGDP_SGDP_Choin.bisnpnomissing.chr8.vcf.gz
+bcftools +fill-tags lifted_over.HGDP_SGDP_Choin.bisnpnomissing.chr17.vcf.gz -o AFannotated.lifted_over.HGDP_SGDP_Choin.bisnpnomissing.chr17.vcf.gz -- -t AF,MAF -S pop_map.txt; tabix -f AFannotated.lifted_over.HGDP_SGDP_Choin.bisnpnomissing.chr17.vcf.gz
