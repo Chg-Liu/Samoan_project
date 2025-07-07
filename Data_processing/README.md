@@ -2,7 +2,8 @@
 This folder collected scripts for processing the Samoan dataset from the originally downloaded files to those commonly used by the analyses. 
 
 All scripts kept the format of the output files vcf.gz or plink. bcftools and plink used in these scripts is in version 1.16 and version 1.9, respectively.
-While ruuning plink, the parameter "--keep-allele-order" will be always added in the command to keep the allele order consistent with those vcf files
+While ruuning plink, the parameter "--keep-allele-order" will be always added in the command to keep the allele order consistent with those vcf files.
+
 From the original dataset, which is in the version of hg38, the following scripts have been run in order 
 
 - normalize.sh: merge the multi-row records for variants with same position into a one-row multi-allelic record.
