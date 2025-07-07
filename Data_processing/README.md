@@ -1,3 +1,4 @@
+# Data processing
 This folder collected scripts for processing the Samoan dataset from the originally downloaded files to those commonly used by the analyses. 
 All scripts kept the format of the output files vcf.gz or plink. bcftools and plink used in these scripts is in version 1.16 and version 1.9 respectively.
 While ruuning plink, the parameter "--keep-allele-order" will be always added in the command to keep the allele order consistent with those vcf files
