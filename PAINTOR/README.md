@@ -2,7 +2,7 @@
 
 This analysis has been done by Dan Qiu.
 
-Please see [here](https://github.com/gkichaev/PAINTOR_V3.0](https://github.com/gkichaev/PAINTOR_V3.0/wiki) for details of the pipeline.
+Please see [here](https://github.com/gkichaev/PAINTOR_V3.0/wiki) for details of the pipeline.
 
 The following steps have been carried out in the analysis.
 
